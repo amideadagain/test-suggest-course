@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `python main.py`
+```python main.py```
 
 After running the script, data will be written to the file `selected_individuals.json` in the base directory.
 
@@ -10,4 +10,4 @@ After running the script, data will be written to the file `selected_individuals
 
 Create `.env` file in root directory and copy the variables from `.env.sample`
 
-### `pip install -r requirements.txt`
+```pip install -r requirements.txt```
